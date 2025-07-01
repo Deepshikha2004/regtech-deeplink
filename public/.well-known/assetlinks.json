@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.regtech",
+      "sha256_cert_fingerprints": [
+        "23:A1:A6:99:61:4D:48:A7:96:84:2B:93:24:84:AE:E3:97:CC:99:92:DA:BA:13:33:9A:83:03:8E:1B:14:C6:94"
+      ]
+    }
+  }
+]
